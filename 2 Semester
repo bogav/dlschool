@@ -1,0 +1,31 @@
+Второй семестр
+
+Программа этой части может меняться, внизу Вы можете лишь видеть темы,
+
+которые мы хотели бы рассказать.
+
+​
+
+​​
+
+    Основы работы с текстовыми данными. OneHot-кодирование. Bag of Words. N-граммы. Анализ тональности текста
+
+    Embeddings (векторизация данных). Word2Vec. GloVe. Wide&Deep neural networks
+
+    Рекуррентные нейронные сети: основы. "Vanilla RNN"
+
+    Gated Recurrent Unit (GRU) и Long Short-Term Memory (LSTM) ячейки
+
+    Sequence2Sequence. Нейросетевой подход к задаче перевода текста (Neural Machine Translation)
+
+    Работа с audio и речью. WaveNet. Генерация речи. Распознавание речи
+
+    Unsupervised Learning. Autoencoders. Sparse Autoencoders. Denoising Autoencoders
+
+    *Variational Autoencoders
+
+    Генеративные состязательные сети (GAN). Примеры и основные виды
+
+    Adversarial examples
+
+    Reinforcement Learning
